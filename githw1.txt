@@ -1,5 +1,5 @@
 <!---
-Breno Fernandes de Andrade 
+Breno Fernandes de Andrade - CS270. Assignment #1
 Description: Basic horizontal navigation menu 	
 	--->
 <!DOCTYPE html>
