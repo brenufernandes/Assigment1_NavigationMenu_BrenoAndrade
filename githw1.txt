@@ -1,0 +1,31 @@
+<!---
+Breno Fernandes de Andrade 
+Description: Basic horizontal navigation menu 	
+	--->
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>My first navigation menu</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	</head>
+	<body>
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">About</a>
+		<ul>
+			<li><a href="#">Staff</a></li>
+			<li><a href="#">History</a></li>
+			<li><a href="#">Press</a></li>
+		</ul>
+		</li>
+		<li><a href="#">Media</a>
+		<ul>
+			<li><a href="#">Audio</a></li>
+			<li><a href="#">Video</a></li>
+		</ul>
+		</li>
+		<li><a href="#">Blog</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+	</body>
+</html>
